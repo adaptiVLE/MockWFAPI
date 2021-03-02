@@ -1,4 +1,6 @@
 {
-  "email": "string",
-  "products": "string"
+  "Post": {
+    "email": "string",
+    "products": "string"
+  }
 }
